@@ -1,6 +1,6 @@
 /*
 [task_local]
-0 20 * * * * https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/oil.js, tag=每日油价, enabled=true
+0 20 * * * * https://raw.githubusercontent.com/clojure8/quanx/main/scripts/oil.js, tag=每日油价, enabled=true
 */
 const apiurl = ""https://apis.tianapi.com/oilprice/index?key=d718b0f7c2b6d71cb3a9814e90bf847f&prov=%E4%B8%8A%E6%B5%B7;
 
